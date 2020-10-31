@@ -1,4 +1,4 @@
-package 알고리즘;
+package 알고리즘1031;
 
 public class Student {
 private String name;

@@ -1,4 +1,4 @@
-package 알고리즘;
+package 알고리즘1031;
 
 public class 구구단 {
 
