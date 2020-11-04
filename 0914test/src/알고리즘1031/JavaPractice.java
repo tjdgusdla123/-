@@ -131,6 +131,29 @@ public class JavaPractice {
 //		for( i=0; i<100; ++i,hap+=i); 
 //			
 //		System.out.println(hap);
+		
+		//=========================================
+//		내가 이해한 방법이 맞는지 확인하기
+//		int numAry[] = {0,0,0,0,3};
+//		int i,j;
+//		for(j =4; j>=0; --j) {
+//			for(i=4;i>j; --i) {
+//				numAry[j]+=numAry[i];
+//			}
+//		}
+//		for(j=0;j<5; ++j) {
+//			System.out.println(numAry[j]);
+//		}
+//		System.out.println(numAry[3]);
+//		
+		
+//		int i =0, hap =0;
+//		for(i=1; i<=100; ++i)
+//			hap = hap+i;
+//			System.out.printf("%d, %d입니다\n",i,hap);
+//		
+		
+		
 	}
           
 }
