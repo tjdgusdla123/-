@@ -146,14 +146,27 @@ public class JavaPractice {
 //		}
 //		System.out.println(numAry[3]);
 //		
-		
+		//====================================
 //		int i =0, hap =0;
 //		for(i=1; i<=100; ++i)
 //			hap = hap+i;
 //			System.out.printf("%d, %d입니다\n",i,hap);
 //		
-		
-		
+		//===================================================
+	
+//		float hap ,a,d;
+//		hap =1; 
+//		a=1;
+//       do {
+//    	   d= 1/a;
+//    	   hap +=d;
+//    	   a++;
+//    	   System.out.println("d :"+d);
+//    	   System.out.println(hap);
+//       }while(a<=10); 
+//    	   System.out.printf("%f",hap);
+//       
+//===========================================================		
 	}
           
 }
