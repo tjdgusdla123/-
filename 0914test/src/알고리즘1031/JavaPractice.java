@@ -167,6 +167,32 @@ public class JavaPractice {
 //    	   System.out.printf("%f",hap);
 //       
 //===========================================================		
+		
+//	String str1 ="apple";
+//	String str2 ="apple";
+//		
+//	String str3 = new String("apple");	
+//	String str4 = new String("Apple");	
+//	
+//	System.out.println(str2.equalsIgnoreCase(str4));
+//	
+//	System.out.println(str4);
+//====================================================11271403	
+//		int a =10;
+//		int b = -10;
+//		System.out.println("a="+adsMake(a));
+//	
+//	}
+//          
+//static int adsMake (int x) {
+//	if(x>0) {
+//		
+//		return x;
+//	}else{
+//		
+//		return x;
+//}
+//	
+	
 	}
-          
 }
