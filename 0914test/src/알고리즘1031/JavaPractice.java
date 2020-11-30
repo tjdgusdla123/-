@@ -247,8 +247,10 @@ public class JavaPractice {
 //		
 		
 		
-		
-		
+//		String ad ="asdasdad";
+//		System.out.println(ad.indexOf("d"));왼쪽 부터 제일 처음 잧는 인덱스
+//		System.out.println(ad.lastIndexOf("a"));왼쪽 부터 가장 마지막에 찾는 인덱스
+//		
 		
 		
 		
