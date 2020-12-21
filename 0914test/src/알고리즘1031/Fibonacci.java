@@ -16,7 +16,7 @@ public class Fibonacci {
 		
 			
 		}
-		for(int i=1; i<=10; i++) {
+		for(int i=1; i<=20; i++) {
 			System.out.println(arr[i]+"");
 		}
 		//2번째 방법.
