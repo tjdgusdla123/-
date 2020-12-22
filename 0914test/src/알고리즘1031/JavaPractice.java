@@ -264,13 +264,24 @@ public class JavaPractice {
 		//else
 			//System.out.println("소수아님");
 ///=================================================================
-		
-		
-		
-		
-		
-		
-		
-		
+		//202012230829
+//		int a=18, j;
+//		j=2;
+//		while(true) {
+//			if(j<= Math.sqrt(a)){//Math.sqrt제곱근(루트)
+//				  System.out.println(Math.sqrt(a));
+//			if(a%j==0) {
+//				System.out.println("소수아님");
+//				break;
+//			}else 
+//				j++;
+//			
+//			}
+//			else {
+//				System.out.println("소수");
+//				break;
+//			}
+//		}
 	}
-}
+	
+	}
