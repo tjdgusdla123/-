@@ -1,5 +1,8 @@
 package 알고리즘1031;
 
+import java.util.*;
+
+
 public class JavaPractice {
 
 	public static void main(String[] args) {
@@ -304,25 +307,32 @@ public class JavaPractice {
 //	
 //
 //     20210108 10진수를 입력 받아 2진수로 변환
-		int b =15, bb,c,mok,nmg,k,i;
-		int a[] = new int [10]; 
-		bb= b;
-		c = -1;
+//		int b =15, bb,c,mok,nmg,k,i;
+//		int a[] = new int [10]; 
+//		bb= b;
+//		c = -1;
+//		
+//		do {
+//			c++;
+//			mok = b/2;
+//			nmg =b - mok*2;
+//			a[9-c] = nmg;
+//			 b= mok;
+//			 
+//		}while(mok != 0);
+//		
+//		k = 9 - c;
+//		for(i = k; i <10; i++) {
+//			System.out.println(a[i]);
+//		}
+////		
+//		
 		
-		do {
-			c++;
-			mok = b/2;
-			nmg =b - mok*2;
-			a[9-c] = nmg;
-			 b= mok;
-			 
-		}while(mok != 0);
-		
-		k = 9 - c;
-		for(i = k; i <10; i++) {
-			System.out.println(a[i]);
-		}
-			
 	}
 
 }
+
+
+
+
+
