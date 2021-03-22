@@ -1,9 +1,11 @@
 package 알고리즘1031;
 
+
 import java.util.*;
 
 public class Solution {
 	public static void main(String[] args) {
+	
 		int[] numbers = { 2, 1, 3, 4, 1 };
 		ArrayList<Integer> arr = new ArrayList<>();
 		for (int i = 0; i < numbers.length; i++) {
@@ -22,7 +24,17 @@ public class Solution {
 			answer[i] = (int) arr.get(i);
 			System.out.println(answer[i]);
 		}
-		
-}
+		  
+	 
+	    
+	     
+		  }
+		  
+	
+	   }
+	   
 
-}
+
+
+
+
