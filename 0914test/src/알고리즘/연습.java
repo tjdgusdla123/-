@@ -1,4 +1,4 @@
-package 알고리즘1031;
+package 알고리즘;
 public class 연습 {
 //순서바꾸기
 	
