@@ -1,5 +1,5 @@
 package 알고리즘;
-
+//프로그래머스 2016년
 public class Solution20210322 {
 	public static String solution(int a, int b) {
 		  String[] day = {"THU","FRI","SAT","SUN","MON","TUE","WED"};
@@ -30,7 +30,7 @@ public class Solution20210322 {
 		Solution20210322 s = new Solution20210322();
 		int a = 5;
 		int b =24;
-		System.out.println(Solution20210322.solution(a, b));
+		System.out.println(s.solution(a, b));
 		
 				
 
